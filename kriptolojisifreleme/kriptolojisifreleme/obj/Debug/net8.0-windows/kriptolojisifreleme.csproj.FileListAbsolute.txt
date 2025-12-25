@@ -1,0 +1,16 @@
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.Form1.resources
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\bin\Debug\net8.0-windows\kriptolojisifreleme.exe
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\bin\Debug\net8.0-windows\kriptolojisifreleme.deps.json
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\bin\Debug\net8.0-windows\kriptolojisifreleme.runtimeconfig.json
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\bin\Debug\net8.0-windows\kriptolojisifreleme.dll
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\bin\Debug\net8.0-windows\kriptolojisifreleme.pdb
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.dll
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\refint\kriptolojisifreleme.dll
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.pdb
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\kriptolojisifreleme.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\kriptolojisifreleme\kriptolojisifreleme\obj\Debug\net8.0-windows\ref\kriptolojisifreleme.dll

@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net9.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\Kaan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kaan\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

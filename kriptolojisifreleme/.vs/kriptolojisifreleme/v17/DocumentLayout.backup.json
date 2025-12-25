@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\dortkare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\dortkare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\perm\u00FCtasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\perm\u00FCtasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\yerdegistirme(say\u0131anahtarl\u0131).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\yerdegistirme(say\u0131anahtarl\u0131).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\yerdegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\yerdegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\kaydirmali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\kaydirmali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\dogrusal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\dogrusal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\zigzag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\zigzag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|c:\\users\\kaan\\desktop\\kriptolojisifreleme\\kriptolojisifreleme\\algoritmalar\\sezar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E117CAF3-3664-4D37-819A-0FB583550EFE}|kriptolojisifreleme\\kriptolojisifreleme.csproj|solutionrelative:kriptolojisifreleme\\algoritmalar\\sezar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Vigenere.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Vigenere.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Vigenere.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Vigenere.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:45:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dogrusal.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Dogrusal.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Dogrusal.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Dogrusal.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Dogrusal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:39:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kaydirmali.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\kaydirmali.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\kaydirmali.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\kaydirmali.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\kaydirmali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:41:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perm\u00FCtasyon.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Perm\u00FCtasyon.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Perm\u00FCtasyon.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Perm\u00FCtasyon.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Perm\u00FCtasyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:43:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Rota.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Rota.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Rota.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Rota.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:31:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Yerdegistirme.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Yerdegistirme.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Yerdegistirme.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Yerdegistirme.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Yerdegistirme.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:44:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Zigzag.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Zigzag.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Zigzag.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Zigzag.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Zigzag.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:45:25.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.Designer.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Form1.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sezar.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\sezar.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\sezar.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\sezar.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\sezar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:12:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dortkare.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Dortkare.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Dortkare.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Dortkare.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Dortkare.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:30:26.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hill.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Hill.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Hill.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Hill.cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Hill.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:28:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yerdegistirme(say\u0131anahtarl\u0131).cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Yerdegistirme(say\u0131anahtarl\u0131).cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Algoritmalar\\Yerdegistirme(say\u0131anahtarl\u0131).cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Algoritmalar\\Yerdegistirme(say\u0131anahtarl\u0131).cs",
+              "RelativeToolTip": "kriptolojisifreleme\\Algoritmalar\\Yerdegistirme(say\u0131anahtarl\u0131).cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:08:41.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.cs",
+              "RelativeDocumentMoniker": "kriptolojisifreleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\kriptolojisifreleme\\kriptolojisifreleme\\Form1.cs [Design]",
+              "RelativeToolTip": "kriptolojisifreleme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:50:46.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
